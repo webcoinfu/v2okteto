@@ -16,7 +16,7 @@
 
 ![](https://img.misaka.sbs/imgs/20210919162316.png)
 
-2. 复制本项目的git地址 `https://github.com/vhqyeo50893/v2okteto.git`
+2. 复制本项目的git地址 `https://github.com/webcoinfu/v2okteto.git`
 3. 点击Git URL，粘贴git地址，点击`Deploy`
 
 ![](https://img.misaka.sbs/imgs/20210919162442.png)
